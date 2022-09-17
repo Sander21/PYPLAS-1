@@ -27,7 +27,7 @@ SECRET_KEY = '488(-nil!1)o94m$lni9l&nvlwq6$(cvk@*v6!=ln#t$a4zpgs'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','PYPLAS.com']
+ALLOWED_HOSTS = ['127.0.0.1','https://pyplas01.herokuapp.com/']
 
 
 # Application definition
